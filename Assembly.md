@@ -110,6 +110,6 @@ Run performance tests to ensure everything works correctly.
 
 Plug in your Wi-Fi card into the motherboard or use an ethernet cable for internet.
 
-[Next Page](SoftwareSetup.md)
+[Next Page](Troubleshooting.md)
 
 [Previous Page](ComponentSelection.md)
