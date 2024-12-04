@@ -14,4 +14,4 @@ Steps:
 
 [Software Setup](SoftwareSetup.md)
 
-[Troubleshooting](Troubleshooting)
+[Troubleshooting](Troubleshooting.md)
